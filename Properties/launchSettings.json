@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "B2CCustomPolicy": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7050 --pause-on-error"
+    }
+  }
+}
