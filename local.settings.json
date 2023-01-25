@@ -1,0 +1,18 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "Instance": "****************", 
+    "ClientId": "c2a92bd************6b2",
+    "ClientSecret": "G8L8Q~tsAb*****************craQ-",
+    "CallbackPath": "/signin-oidc",
+    "Domain": "*****.onmicrosoft.com",
+    "SignUpSignInPolicyId": "B2C_PortaSignup",
+    "ResetPasswordPolicyId": "",
+    "EditProfilePolicyId": "",
+    "B2cExtensionsAppClientId": "<b2c-extensions-app-client-id>",
+    "BASIC_AUTH_USERNAME": "*****",
+    "BASIC_AUTH_PASSWORD": "***"
+  }
+}
